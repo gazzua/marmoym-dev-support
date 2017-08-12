@@ -1,0 +1,19 @@
+{
+  "workbench.welcome.enabled": false,
+  "editor.tabSize": 2, 
+  "explorer.openEditors.visible": 0,
+  "workbench.activityBar.visible": false,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Monokai",
+  "editor.snippetSuggestions": "top",
+  "window.title": "${activeEditorLong}",
+  "window.zoomLevel": 0,
+  "files.autoSave": "onFocusChange",
+  "editor.rulers": [100],
+  "editor.fontSize": 12,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "./lib/**": true
+  }
+}
