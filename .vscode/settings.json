@@ -10,10 +10,16 @@
   "window.zoomLevel": 0,
   "files.autoSave": "onFocusChange",
   "editor.rulers": [100],
+  "python.pythonPath": "/usr/local/bin/python3",
+  "python.linting.enabledWithoutWorkspace": false,
   "editor.fontSize": 12,
   "search.exclude": {
     "**/node_modules": true,
     "**/bower_components": true,
-    "./lib/**": true
+    "lib/**": true
+  },
+  "files.exclude": {
+    "node_modules/**": true,
+    ".idea/**": true
   }
 }
