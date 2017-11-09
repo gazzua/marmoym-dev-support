@@ -8,4 +8,4 @@ Be sure to checkout our guideline.
 - [ ] Tested successfully.
 - [ ] Titles of commit message and PR are in English.
 - [ ] PR number at the title will be removed when `squash and merge`.
-- [ ] [Guideline](${https://github.com/tymsai/marmoym-dev-support/blob/dev/CONTRIBUTING.md#commit-messages}) is followed. 
+- [ ] [Guideline](https://github.com/tymsai/marmoym-dev-support/blob/dev/CONTRIBUTING.md#commit-messages) is followed. 
